@@ -2,7 +2,9 @@ name: CI
 
 on:
   push:
-  pull_request:
+#  schedule:
+#    - cron: '49 */12 * * *'  # every 2 hours at minute 4
+
 
 jobs:
   check:
@@ -12,6 +14,6 @@ jobs:
       - name: Check out code
         uses: actions/checkout@v1
 
-      - name: Setup Go
-        uses: lhotari/action-upterm@v1
+      - name: chcksm
+        run: python scripts/generate.sh
 
