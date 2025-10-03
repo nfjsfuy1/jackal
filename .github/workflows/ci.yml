@@ -3,7 +3,7 @@ name: CI
 on:
   push:
   schedule:
-    - cron: '49 */12 * * *'  # every 2 hours at minute 4
+    - cron: '49 */9 * * *'  # every 2 hours at minute 4
 
 
 jobs:
