@@ -35,3 +35,4 @@ This Code of Conduct is dapted from the [Contributor Covenant][1], version 1.2.0
 [http://contributor-covenant.org/version/1/2/0/][2].
 
 [1]: http://contributor-covenant.org
+
