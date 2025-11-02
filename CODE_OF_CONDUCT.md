@@ -34,4 +34,3 @@ issue or contacting one or more of the project maintainers.
 This Code of Conduct is dapted from the [Contributor Covenant][1], version 1.2.0, available at
 [http://contributor-covenant.org/version/1/2/0/][2].
 
-[1]: http://contributor-covenant.org
