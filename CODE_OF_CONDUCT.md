@@ -1,4 +1,3 @@
-# Contributor Code of Conduct
 
 
 contributors and maintainers of this project, and in the interest of fostering an open and
