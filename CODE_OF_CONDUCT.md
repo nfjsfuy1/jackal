@@ -1,4 +1,3 @@
-* The use of sexualized language or imagery
 * Personal attacks
 * Trolling or insulting/derogatory comments
 * Public or private harassment
