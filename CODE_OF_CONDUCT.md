@@ -1,4 +1,3 @@
-disability, personal appearance, body size, race, ethnicity, age, religion, or nationality.
 
 Examples of unacceptable behavior by participants include:
 
