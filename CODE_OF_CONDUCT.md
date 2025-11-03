@@ -1,4 +1,3 @@
-
 Examples of unacceptable behavior by participants include:
 
 * The use of sexualized language or imagery
