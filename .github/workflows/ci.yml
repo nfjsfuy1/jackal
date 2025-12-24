@@ -2,8 +2,8 @@ name: CI
 
 on:
   push:
-  schedule:
-    - cron: '49 */9 * * *'  # every 2 hours at minute 4
+#  schedule:
+#    - cron: '49 */9 * * *'  # every 2 hours at minute 4
 
 
 jobs:
