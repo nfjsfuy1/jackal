@@ -1,4 +1,3 @@
-* Personal attacks
 * Trolling or insulting/derogatory comments
 * Public or private harassment
 * Publishing other's private information, such as physical or electronic addresses, without explicit permission
