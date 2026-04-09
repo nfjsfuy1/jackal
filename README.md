@@ -1,4 +1,3 @@
-# jackal
 
 An XMPP server written in Go.
 
