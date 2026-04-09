@@ -1,4 +1,3 @@
-
 An XMPP server written in Go.
 
 ![CI Status](https://github.com/ortuman/jackal/workflows/CI/badge.svg)
