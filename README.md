@@ -1,4 +1,3 @@
-
 ![CI Status](https://github.com/ortuman/jackal/workflows/CI/badge.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/ortuman/jackal?style=flat-square)](https://goreportcard.com/report/github.com/ortuman/jackal)
 [![Godoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://godoc.org/github.com/ortuman/jackal)
